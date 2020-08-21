@@ -12,6 +12,6 @@ while row_index < src.count do
   
   row_index += 1
 end
-just_the_strings = join("")
+ just_the_strings.join = ("")
 end
 
