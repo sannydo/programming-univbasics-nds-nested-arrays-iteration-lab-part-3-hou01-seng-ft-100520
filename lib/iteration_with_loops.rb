@@ -12,5 +12,5 @@ just_the_strings = []
   end
   row_index += 1
 end
- just_the_strings.join = (" ") 
+ just_the_strings.join (" ") =
 end
