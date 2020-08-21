@@ -14,4 +14,4 @@ while row_index < src.count do
 end
 just_the_strings.join= ("")
 end
-join_nested_strings
+
